@@ -7,8 +7,8 @@ Passionate about **Web development, mobile development, and cyber security**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenwardkeene/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenward-keene-hermanto-054993325/)
 ## GitHub Stats  
-![Kenward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Kenward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenwardKH&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenwardKH&layout=compact&theme=radical)  
 
 
 
